@@ -4,10 +4,16 @@
     
 }
 header .header-container{
-    border: 2px solid red;
-    
+    /* border: 2px solid red; */
+
 }
 #nav-container{
     display: flex;
-
+    
+}
+.menu-item{
+    display: flex;
+}
+.nav-icon{
+    display: flex;
 }
